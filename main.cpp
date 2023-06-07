@@ -2,11 +2,10 @@
 #include <std.h>
 
 
-
 int main() {
-a=2;
+a=5;
 b=3;
-z=a+b;
+z=a-b;
 printf("%d",z)
 
 
